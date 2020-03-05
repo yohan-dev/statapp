@@ -1,3 +1,2 @@
 # statapp
-Projet de statistique appliquée : Associate pictures to articles
-Allez l'OM
+Projet de statistiques appliquées : association automatique d'une image à un texte.
